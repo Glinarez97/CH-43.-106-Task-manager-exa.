@@ -1,0 +1,27 @@
+html, body{
+    margin: 0;
+}
+
+h1{
+    color: azure;
+    background-color: black;
+    text-align: center;
+}
+main{
+    display: flex;
+    height: 100vh;
+}
+
+/* ( # ) list means ID on the html */
+/* a period ( . ) means class */
+
+#list{
+    background-color: aquamarine;
+    flex: 2;
+}
+
+#form{
+    background-color: blue;
+    flex: 2;
+}
+
